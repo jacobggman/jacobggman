@@ -26,6 +26,9 @@
 <a href="https://github.com/jacobggman">
   <img align="left" alt="Jacob's Github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://gitlab.com/JacobGalam">
+  <img align="left" alt="Jacob's Gitlab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
 
 <br/>
 <br/>
