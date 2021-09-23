@@ -1,4 +1,4 @@
-# Hi, I'm Jacob Galam 👋
+# Hi, I'm Jacob Galam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://komarev.com/ghpvc/?username=jacobggman)
 
@@ -20,6 +20,9 @@
 <a href="https://jacobgalam.medium.com">
   <img align="left" alt="Jacob's Medium" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://stackoverflow.com/users/13277578/jacob-galam">
+  <img align="left" alt="Jacob's Stackoverflow" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
 <a href="https://linkedin.com/in/jacob-galam-4416a31a9">
   <img align="left" alt="Jacob's Linkdein" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -29,6 +32,8 @@
 <a href="https://gitlab.com/JacobGalam">
   <img align="left" alt="Jacob's Gitlab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
+
+
 
 <br/>
 <br/>
